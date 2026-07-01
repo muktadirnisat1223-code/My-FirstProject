@@ -1,2 +1,2 @@
-Hello from Feature 2
+Hello from Conflict Demo
 
